@@ -1,0 +1,16 @@
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\CarStore.API.exe
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\appsettings.Development.json
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\appsettings.json
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\CarStore.API.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\CarStore.API.runtimeconfig.json
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\CarStore.API.pdb
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Microsoft.EntityFrameworkCore.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Npgsql.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4Project\ProjectManager\src\CarStore\CarStore\obj\Docker\publish\CarStore.API.deps.json

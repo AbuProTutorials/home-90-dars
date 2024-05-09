@@ -1,0 +1,16 @@
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BookStore.API
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BookStore.API.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BookStore.API.runtimeconfig.json
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BookStore.API.pdb
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Npgsql.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4Project\ProjectManager\src\BookStore\BookStore.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BookStore.API.deps.json

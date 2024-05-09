@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PHjNLWszobkaBhHk7kMZNyuTlf+qm2nMO46YlZ5yaOY=",
+  "Source": "FlowerStore.API",
+  "BasePath": "_content/FlowerStore.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
